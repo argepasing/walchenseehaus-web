@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+  branch: main
+
+site_url: https://www.walchenseehaus.de
+locale: "de"
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "page"
+    label: "Seite"
+    folder: "src/pages/"
+    create: true
+    slug: "{{slug}}"

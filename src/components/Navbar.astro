@@ -1,0 +1,16 @@
+---
+const currentPath = Astro.url.pathname;
+---
+
+<nav data-current-path={currentPath} class="mb-4 bg-slate-100 py-4">
+  <ul class="flex flex-row items-center justify-center">
+    <li class="mx-3"><a href="/index.html" class={currentPath === "/" ? "navbar-item active" : "navbar-item"}>Startseite</a></li>
+    <li class="mx-3"><a href="/haus/" class={currentPath === "/haus/" ? "navbar-item active" : "navbar-item"}>Haus</a></li>
+    <li class="mx-3"><a href="/lage/" class={currentPath === "/lage/" ? "navbar-item active" : "navbar-item"}>Lage</a></li>
+    <li class="mx-3"><a href="/geschichte/" class={currentPath === "/geschichte/" ? "navbar-item active" : "navbar-item"}>Geschichte</a></li>
+    <li class="mx-3"><a href="/anfahrt/" class={currentPath === "/anfahrt/" ? "navbar-item active" : "navbar-item"}>Anfahrt</a></li>
+    <li class="mx-3"><a href="/verein/" class={currentPath === "/verein/" ? "navbar-item active" : "navbar-item"}>Verein</a></li>
+    <li class="mx-3"><a href="/preise/" class={currentPath === "/preise/" ? "navbar-item active" : "navbar-item"}>Preise</a></li>
+    <li class="mx-3"><a href="/mitglieder/" class={currentPath === "/mitglieder/" ? "navbar-item active" : "navbar-item"}>Mitgliederbereich</a></li>
+  </ul>
+</nav>

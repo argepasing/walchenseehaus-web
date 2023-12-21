@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Welcome to Walchensee Haus
+title: Willkommen Jugendhaus Walchensee e.V.
 ---
 
 # Walchensee Haus

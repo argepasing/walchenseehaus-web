@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: https://www.walchenseehaus.de
+site_url: https://neu.walchenseehaus.de
 locale: "de"
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
@@ -13,3 +13,7 @@ collections:
     folder: "src/pages/"
     create: true
     slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

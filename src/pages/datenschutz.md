@@ -11,13 +11,16 @@ Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschri
 
 #### Verantwortlicher
 
+<small>
+
 Jugendhaus Walchensee e.V.\
-Vorstand\
-Georg Felbermayr\
+Vorstand - Georg Felbermayr\
 Scheurlinstr. 3\
 81241 München\
+\
 Telefon: 089/886921\
 E-Mail: info@walchenseehaus.de
+</small>
 
 #### Kategorien betroffener Personen
 
@@ -99,10 +102,6 @@ Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon) werd
 
 Sollten Sie Fragen zum Datenschutz haben, wenden Sie sich gerne per Post oder E-Mail an uns:
 
-Jugendhaus Walchensee e.V.\
-Georg Felbermayr\
-Scheurlinstr. 3\
-81241 München\
-info@walchenseehaus.de
+Anschrift identisch: [siehe Verantwortlicher](#verantwortlicher)
 
 Diese Datenschutzerklärung wurde erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke und dem Text-Generator der Deutschen Gesellschaft für Datenschutz und vom Websiteinhaber sorgfältig an die eigenen Bedürfnisse angepasst.

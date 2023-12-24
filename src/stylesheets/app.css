@@ -2,3 +2,33 @@ body {
   width: 960px;
   @apply mx-auto;
 }
+
+body main {
+  min-height: 600px;
+}
+
+/* START - image gallery with m2dx */
+.image-gal {
+  padding: 0;
+  list-style: none;
+  column-width: 300px;
+  column-gap: 1rem;
+  width: 880px;
+}
+
+.image-gal img,
+.image-gal li {
+  margin: 0;
+  padding: 0;
+}
+
+.image-gal img {
+  margin-bottom: 1rem;
+  border-radius: 0.75rem;
+}
+
+.image-gal img:hover {
+  transform: scale(1.015);
+  @apply shadow-md;
+}
+/* END - image gallery with m2dx */

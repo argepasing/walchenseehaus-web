@@ -5,7 +5,7 @@ title: Geschichte
 
 # Geschichte
 
-![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
+![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg):style{.float-right .w-1/3 .m-0 .my-4 .ml-4 .rounded-full}
 
 Eine Schützenscheibe im Aufenthaltsraum des Jugendhaus Walchensee zeigt ein Portät des bayerischen Märchenkönigs Ludwigs II. In seinem Auftrag wurde das ehemals königlich bayerische Forsthaus Einsiedl im Jahre 1880 errichtet.
 

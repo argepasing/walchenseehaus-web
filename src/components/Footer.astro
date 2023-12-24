@@ -2,27 +2,33 @@
 const package_version = import.meta.env.PACKAGE_VERSION;
 const git_commit_hash = import.meta.env.COMMIT_REF;
 const current_year = new Date().getFullYear();
-const currentPath = Astro.url.pathname;
 ---
 
-<div class="mt-10 bg-slate-50">
-  <hr />
-  <footer class="mx-auto w-full px-4 py-10">
-    Jugendhaus Walchensee
-    <br />
-     Einsiedl 59 1/2
-    <br />
-     83676 Jachenau
+<footer class="mt-10">
+  <div class="bg-slate-50 px-4 py-4">
+    <address class="text-sm not-italic text-slate-600">
+      Jugendhaus Walchensee e.V.
+      <br />
+       Einsiedl 59 <span class="diagonal-fractions">1/2</span>
+      <br />
+       83676 Jachenau
+      <br />
+      <br />
+      <i class="bi bi-geo-alt text-slate-400"></i>
+      <a href="https://maps.app.goo.gl/gi2APh4gp54CEknv6" class="text-xs text-slate-400">Google Maps</a>
+    </address>
 
-    <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="my-3 text-right text-xs opacity-30">
-      © {current_year} • {package_version}
-    </p>
+    <div class="my-3 flex justify-between border-t pt-3">
+      <nav class="text-xs text-slate-400">
+        <ul class="flex justify-start gap-3">
+          <li><a href="/impressum/">Impressum</a></li>
+          <li><a href="/datenschutz/">Datenschutz</a></li>
+        </ul>
+      </nav>
 
-    <nav data-current-path={currentPath}>
-      <ul class="flex flex-row items-center justify-center">
-        <li class="mx-3"><a href="/impressum/" class={currentPath === "/impressum/" ? "navbar-item active" : "navbar-item"}>Impressum</a></li>
-        <li class="mx-3"><a href="/datenschutz/" class={currentPath === "/datenschutz/" ? "navbar-item active" : "navbar-item"}>Datenschutz</a></li>
-      </ul>
-    </nav>
-  </footer>
-</div>
+      <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-30">
+        © {current_year} • {package_version}
+      </p>
+    </div>
+  </div>
+</footer>

@@ -12,3 +12,9 @@ Das Jugendhaus Walchensee ist ein ehemaliges Forsthaus, das im Winter/Frühjahr 
 Als nichtbewirtschaftetes Haus mit Vollausstattung für Selbstver- sorger bietet es Platz für bis zu 25 Gäste und ist damit das ideale Ferienhaus für Jugendgruppen, Vereine, Seminare, Lehrgänge oder einfach nur mehrere Leute, die miteinander schöne Tage verbringen wollen.
 
 Für Schützinnen und Schützen, die im DSB (oder einer Unterorganisation) Mitglied sind, bietet das Haus mit fünf 10m- Ständen ideale Bedingungen, an der eigenen Leistung zu “feilen” oder aber ein Trainingslager in einer Umgebung abzuhalten, die echte Erholung gestattet.
+
+::list-style{.image-gal}
+
+- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
+- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
+- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)

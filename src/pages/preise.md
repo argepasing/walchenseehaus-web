@@ -19,6 +19,8 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 
 - Bitte berücksichtigen Sie für Ihre Terminplanung die nachstehenden **standardmäßigen An- und Abreisezeiten**. Andere Belegungszeiträume können bei der Buchung individuell vereinbart werden, sofern die Belegung des Hauses dies zulässt (hierfür können entsprechende Zuschläge erhoben werden).
 
+## Preisliste
+
 | Dauer                                                                 | von                | bis                | Preis |
 | --------------------------------------------------------------------- | ------------------ | ------------------ | ----: |
 | Wochenende                                                            | Freitag, 17:00 Uhr | Sonntag, 16:00 Uhr | 300 € |

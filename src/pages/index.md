@@ -15,6 +15,10 @@ Für Schützinnen und Schützen, die im DSB (oder einer Unterorganisation) Mitgl
 
 ::list-style{.image-gal}
 
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
+- ![](src/images/start-1.jpg)
+- ![](src/images/start-2.jpg)
+- ![](src/images/start-3.jpg)
+- ![](src/images/start-4.jpg)
+- ![](src/images/start-5.jpg)
+- ![](src/images/start-6.jpg)
+- ![](src/images/start-7.jpg)

@@ -5,6 +5,15 @@ body {
 
 body main {
   min-height: 600px;
+  @apply px-6;
+}
+
+.navbar-item {
+  @apply text-base hover:underline;
+}
+
+.navbar-item.active {
+  @apply font-semibold text-blue-500;
 }
 
 /* START - image gallery with m2dx */

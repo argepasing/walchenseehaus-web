@@ -21,6 +21,9 @@ Eine besonders beeindruckende Aussicht auf das Zwei-Seen-Land rund um den Kochel
 
 ::list-style{.image-gal}
 
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
-- ![](src/images/schuetzenscheibe-ludwig-forsthaus-einsiedl.jpg)
+- ![](src/images/lage-1.jpg)
+- ![](src/images/lage-2.jpg)
+- ![](src/images/lage-3.jpg)
+- ![](src/images/lage-4.jpg)
+- ![](src/images/lage-5.jpg)
+- ![](src/images/lage-6.jpg)

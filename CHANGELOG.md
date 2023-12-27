@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.0...v0.1.1) (2023-12-27)
+
+
+### Bug Fixes
+
+* rename haus images ([6740c10](https://github.com/argepasing/walchenseehaus-web/commit/6740c103f29544452b0edc3802f0e1f021c17c95))
+* update content ([7597e2e](https://github.com/argepasing/walchenseehaus-web/commit/7597e2edf0c3397409b75e7f0a1aed878f02b3b9))
+
 ## 0.1.0 (2023-12-24)
 
 

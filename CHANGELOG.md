@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.1...v0.1.2) (2023-12-28)
+
+
+### Bug Fixes
+
+* pushin layout ([868b8b1](https://github.com/argepasing/walchenseehaus-web/commit/868b8b14e1b628089cfd9713441adcff43a13e13))
+
 ## [0.1.1](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.0...v0.1.1) (2023-12-27)
 
 

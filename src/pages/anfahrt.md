@@ -3,8 +3,6 @@ layout: "@/layouts/BaseLayout.astro"
 title: Anfahrt
 ---
 
-# Anfahrt
-
 ![](src/images/anfahrt-jugendhaus-walchensee-pkw-oepnv.png):style{.float-left .w-1/2 .my-12 .mr-4}
 
 #### Anfahrt mit dem Auto

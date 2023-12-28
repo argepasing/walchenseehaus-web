@@ -3,13 +3,9 @@ layout: "@/layouts/BaseLayout.astro"
 title: Lage
 ---
 
-# Die Lage
+![](src/images/lage-top-image.jpg):style{.w-1/3 .mb-4 .rounded-lg .mx-auto}
 
-<center>
-
-![](src/images/lage-top-image.jpg):style{.w-1/3 .m-0 .my-4 .rounded-full}
-
-</center>
+:::style{.text-center}
 
 80 km südlich von München, am Rand der Alpenregion Karwendel – in einer der schönsten Land­schaften Bayerns – liegt das Jugendhaus Walchensee, abgeschirmt auf einem 2.500 qm großem Grund­stück in der Ortschaft Einsiedl. Nicht einmal 100 m trennen das Haus vom Walchen­see, dem größten Gebirgssee Deutschlands.
 
@@ -19,7 +15,9 @@ Von der einzigartigen Flora und Fauna rund um den Walchensee haben sich schon Jo
 
 Eine besonders beeindruckende Aussicht auf das Zwei-Seen-Land rund um den Kochelsee und den Walchensee – und weit darüber hinaus – haben Besucher des Herzogstands auf 1.680 m Höhe. Aufgrund der einzigartigen Kulisse überrascht es nicht, dass Michael „Bully“ Herbig die Sachenbacherbucht am Walchensee als Drehort für die beiden Verfilmungen der Zeichentrickserie „Wickie und die starken Männer“ (2008 und 2010) gewählt hat. Das damalige Filmdorf Flake kann seitdem in der Ortschaft Walchensee besichtigt werden.
 
-::list-style{.image-gal}
+:::
+
+::list-style{.grid .gap-3 .grid-cols-3}
 
 - ![](src/images/lage-1.jpg)
 - ![](src/images/lage-2.jpg)

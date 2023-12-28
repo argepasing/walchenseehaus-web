@@ -3,8 +3,6 @@ layout: "@/layouts/BaseLayout.astro"
 title: Preise und Buchung
 ---
 
-# Preise und Buchung
-
 Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 
 - Eine Vermietung erfolgt grundsätzlich nur an **Mitglieder des Bayerischen Sportschützenbunds** bzw. des Deutschen Schützenbunds. Bitte nennen Sie bei Buchungsanfragen ihren Vereinsnamen.
@@ -21,6 +19,8 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 
 ## Preisliste
 
+:::style{.mx-8}
+
 | Dauer                                                                 | von                | bis                | Preis |
 | --------------------------------------------------------------------- | ------------------ | ------------------ | ----: |
 | Wochenende                                                            | Freitag, 17:00 Uhr | Sonntag, 16:00 Uhr | 300 € |
@@ -28,3 +28,5 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 | Langwoche                                                             | Sonntag, 17:00 Uhr | Sonntag, 16:00 Uhr | 600 € |
 | Bootshaus-Zuschlag                                                    | 01. Juni           | 15. September      |  15 € |
 | <small class="opacity-75">Stand 2023 - Änderungen vorbehalten</small> |                    |                    |       |
+
+:::

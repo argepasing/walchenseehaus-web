@@ -5,6 +5,7 @@ import mdx from "@astrojs/mdx";
 import remarkDirective from "remark-directive";
 import m2dx from "astro-m2dx";
 
+/** @type {import('astro-m2dx').Options} */
 const m2dxOptions = {
   styleDirectives: true,
 };

@@ -2,9 +2,16 @@
 import headerImg from "@/images/header-walchensee-vom-herzogstand.jpg";
 ---
 
-<div class="bg-header-image bg-gradient-to-r from-cyan-500 to-blue-500 py-24 text-center text-white" style={{ backgroundImage: `url('${headerImg.src}')` }}>
-  <h1 class="text-5xl font-bold">Jugendhaus Walchensee e.V.</h1>
-  <h2 class="font-light">Förderverein im Schützengau München Süd-West</h2>
+<div
+  class="bg-header-image flex items-center justify-center bg-gradient-to-r from-cyan-500 to-blue-500"
+  style={{ backgroundImage: `url('${headerImg.src}')`, minHeight: "350px" }}
+>
+  <div class="text-center">
+    <a href="/">
+      <h1 class="px-3 text-4xl font-semibold text-white md:text-7xl">Jugendhaus Walchensee e.V.</h1>
+      <h2 class="font-normal tracking-wider text-white">Förderverein im Schützengau München Süd-West</h2>
+    </a>
+  </div>
 </div>
 <hr />
 

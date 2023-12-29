@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.2...v0.1.3) (2023-12-29)
+
+
+### Bug Fixes
+
+* fix layout issues with mobile ([8bd4a50](https://github.com/argepasing/walchenseehaus-web/commit/8bd4a505bf83d9eb609904e2f8bfc71d4c140528))
+
 ## [0.1.2](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.1...v0.1.2) (2023-12-28)
 
 

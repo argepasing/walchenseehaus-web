@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Verein
+title: Der Verein
 ---
 
 :::style{.text-center}

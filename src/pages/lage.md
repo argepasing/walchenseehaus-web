@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Lage
+title: Die Lage
 ---
 
 ![](src/images/lage-top-image.jpg):style{.w-1/3 .mb-4 .rounded-lg .mx-auto}

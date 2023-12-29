@@ -5,7 +5,7 @@ interface Props {
 
 import "@/stylesheets/app.css";
 
-const { title } = Astro.props;
+const { title } = Astro.props.frontmatter || Astro.props;
 const currentPath = Astro.url.pathname;
 
 import Header from "@/components/Header.astro";
@@ -21,7 +21,7 @@ import Footer from "@/components/Footer.astro";
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+    <title>{title} | Jugendhaus Walchensee e.V.</title>
 
     <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1/font/bootstrap-icons.min.css" />

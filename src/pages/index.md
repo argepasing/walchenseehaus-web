@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Willkommen Jugendhaus Walchensee e.V.
+title: Startseite
 ---
 
 Das Jugendhaus Walchensee liegt am Südufer des Walchensees. Es ist eingebettet in eine der reizvollsten Landschaften Oberbayerns. Ausgedehnte Wälder, Wiesen, Berge und der herrliche See prägen die Region. Sportbegeisterte und Erholungssuchende finden hier vielfältige Möglichkeiten, sich zu betätigen oder einfach nur einen herrlichen Aufenthalt in dieser einzigartigen Landschaft zu erleben.

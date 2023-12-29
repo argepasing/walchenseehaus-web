@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Geschichte
+title: Die Geschichte
 ---
 
 :::style{.text-center}

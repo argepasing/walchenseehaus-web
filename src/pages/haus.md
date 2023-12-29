@@ -1,6 +1,6 @@
 ---
 layout: "@/layouts/BaseLayout.astro"
-title: Haus
+title: Das Haus
 ---
 
 ![](src/images/haus-jugendhaus-und-maibaum.jpg):style{.w-1/3 .m-0 .mx-auto .rounded-lg}

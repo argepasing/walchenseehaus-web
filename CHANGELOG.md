@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.3...v0.1.4) (2023-12-29)
+
+
+### Bug Fixes
+
+* add medium zoom for image grid ([095e61f](https://github.com/argepasing/walchenseehaus-web/commit/095e61f92237c8f5ada80f70180e28445906f676))
+
 ## [0.1.3](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.2...v0.1.3) (2023-12-29)
 
 

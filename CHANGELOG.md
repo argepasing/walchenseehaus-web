@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.4...v0.1.5) (2023-12-29)
+
+
+### Bug Fixes
+
+* update content ([d8a7412](https://github.com/argepasing/walchenseehaus-web/commit/d8a7412fc2ad35911fb90e0ca3bc45192a9c9fdb))
+
 ## [0.1.4](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.3...v0.1.4) (2023-12-29)
 
 

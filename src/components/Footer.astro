@@ -4,33 +4,59 @@ const git_commit_hash = import.meta.env.COMMIT_REF;
 const current_year = new Date().getFullYear();
 ---
 
-<footer class="mt-12">
-  <div class="border-t bg-slate-50 py-6">
-    <div class="container mx-auto px-6" style="max-width: 1090px;">
-      <address class="text-sm not-italic text-slate-600">
-        Jugendhaus Walchensee e.V.
-        <br />
-        Einsiedl 59 <span class="diagonal-fractions">1/2</span>
-        <br />
-        83676 Jachenau
-        <br />
-        <br />
-        <i class="bi bi-geo-alt text-slate-400"></i>
-        <a href="https://maps.app.goo.gl/gi2APh4gp54CEknv6" class="text-xs text-slate-400">Google Maps</a>
-      </address>
+<footer class="mt-12 border-t bg-slate-50 py-6">
+  <div class="container mx-auto px-6" style="max-width: 1090px;">
+    <div class="grid grid-cols-3 gap-6 md:grid-cols-4">
+      <div>
+        <h4 class="mb-3 text-xs font-semibold uppercase text-gray-900">Anschrift</h4>
 
-      <div class="mt-3 flex justify-between border-t pt-3">
-        <nav class="text-xs text-slate-400">
-          <ul class="flex justify-start gap-3">
-            <li><a class="hover:underline" href="/impressum/">Impressum</a></li>
-            <li><a class="hover:underline" href="/datenschutz/">Datenschutz</a></li>
-          </ul>
-        </nav>
-
-        <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-30">
-          © {current_year} • {package_version}
-        </p>
+        <address class="text-sm not-italic leading-6 text-slate-600">
+          Jugendhaus Walchensee e.V.
+          <br />
+          Einsiedl 59 <span class="diagonal-fractions">1/2</span>
+          <br />
+          83676 Jachenau
+          <br />
+          <i class="bi bi-geo-alt text-slate-400"></i>
+          <a href="https://maps.app.goo.gl/gi2APh4gp54CEknv6" class="text-xs text-slate-400 hover:underline">Google Maps</a>
+        </address>
       </div>
+
+      <div class="hidden md:block"></div>
+
+      <div>
+        <h4 class="mb-3 text-xs font-semibold uppercase text-gray-900">Jugendhaus</h4>
+        <div class="grid space-y-2 text-sm">
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/haus/#ausstattung">Ausstattung</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/lage/">Die Lage</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/anfahrt/">Anfahrt</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/preise/">Preise</a></p>
+        </div>
+      </div>
+
+      <div>
+        <h4 class="mb-3 text-xs font-semibold uppercase text-gray-900">Walchensee</h4>
+        <div class="grid space-y-2 text-sm">
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/verein/">Der Verein</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/geschichte/">Geschichte</a></p>
+          <p>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-900 hover:underline" href="/mitglieder/">Mitgliederbereich<i class="bi bi-lock"></i></a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-3 flex justify-between border-t pt-3">
+      <nav class="text-xs text-slate-400">
+        <ul class="flex justify-start gap-3">
+          <li><a class="hover:underline" href="/impressum/">Impressum</a></li>
+          <li><a class="hover:underline" href="/datenschutz/">Datenschutz</a></li>
+        </ul>
+      </nav>
+
+      <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-30">
+        © {current_year} • {package_version}
+      </p>
     </div>
   </div>
 </footer>

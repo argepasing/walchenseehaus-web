@@ -9,6 +9,8 @@ Das Jugendhaus Walchensee ist ein volleingerichtetes Selbstversorgerhaus. Geträ
 
 Selbstverständlich verfügt das Haus über eine Zentral­heizung sowie fließend Kalt- und Warmwasser.
 
+## Ausstattung
+
 Das Jugendhaus Walchensee ist wie folgt ausgestattet:
 
 ## Küche
@@ -20,6 +22,8 @@ Das Jugendhaus Walchensee ist wie folgt ausgestattet:
 
 Die 2019 komplett neu eingerichtete Küche bietet alle modernen Hilfs­mittel:
 
+::list-style{.columns-2}
+
 - Spülmaschine
 - Mikrowelle
 - Wasserkocher
@@ -29,7 +33,7 @@ Die 2019 komplett neu eingerichtete Küche bietet alle modernen Hilfs­mittel:
 - Kühlschrank mit Gefrierfach
 - Toaster
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-6">
 
 ## Aufenthaltsräume
 
@@ -40,7 +44,7 @@ Die 2019 komplett neu eingerichtete Küche bietet alle modernen Hilfs­mittel:
 
 Im Erdgeschoss befinden sich zwei geräumige Aufenthaltsräume, die auch größeren Gruppen ausreichend Platz bieten. In einem der Räume steht eine Stereoanlage zur Verfügung.
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">
 
 ## Schlafräume
 
@@ -50,6 +54,8 @@ Im Erdgeschoss befinden sich zwei geräumige Aufenthaltsräume, die auch größe
 - ![](src/images/haus-schlaf-2.jpg)
 
 In vier Schlaf­räumen und einem Matratzen­lager finden bis zu 21 Personen bequem Platz. Ein Schlafraum befindet sich im EG, die restlichen im OG. Die Schlafmöglichkeiten teilen sich wie folgt auf:
+
+::list-style{.columns-2}
 
 - 4x Doppelbetten
 - 4x Einzelbetten
@@ -67,7 +73,7 @@ In vier Schlaf­räumen und einem Matratzen­lager finden bis zu 21 Personen beq
 
 Für jeden Schlafraum gibt es ein Bad. Somit stehen insgesamt fünf Bäder im Jugendhaus zur Verfügung; eines im EG, die restlichen vier im OG. Alle Bade­zimmer sind mit Dusche, Wasch­becken und WC aus­gestattet.
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">
 
 ## Schießstand
 
@@ -78,7 +84,7 @@ Für jeden Schlafraum gibt es ein Bad. Somit stehen insgesamt fünf Bäder im Ju
 
 Von Mitgliedern eines Schützen­vereins im BSSB oder DSB kann im hinteren Teil des Hauses ein 10-Meter-Schieß­stand mit drei elektronischen und zwei mechanischen Ständen für Luft­gewehr bzw. Luft­pistole genutzt werden.
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">
 
 ## Terrasse
 
@@ -89,7 +95,7 @@ Von Mitgliedern eines Schützen­vereins im BSSB oder DSB kann im hinteren Teil 
 
 An der Südseite des Hauses befindet sich eine große Terrasse mit verschiedenen Garten­möbeln; ebenso ist ein Grill vor­handen. Sollten einmal mehr Sitz­gelegen­heiten be­nötigt werden, sind fünf Bier­tisch­garnituren vor Ort verfügbar. (Achtung: Offene Feuer sind auf dem Grund­stück aus feuer­polizei­lichen Gründen verboten!)
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">
 
 ## Garten
 
@@ -100,7 +106,7 @@ An der Südseite des Hauses befindet sich eine große Terrasse mit verschiedenen
 
 Der 2.500 qm große, umzäunte Garten bietet viel Platz für Spiel, Spaß und Erho­lung. Für diesen Zweck steht auch eine Tischtennisplatte bereit. Über ein Gartentor gelangt man zu Fuss in ca. zwei bis drei Minuten direkt zum Südufer des Walchensees und zum Bootshaus.
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">
 
 ## Bootshaus
 
@@ -111,4 +117,4 @@ Der 2.500 qm große, umzäunte Garten bietet viel Platz für Spiel, Spaß und Er
 
 Zum Jugendhaus Walchensee gehört auch ein Bootshaus, das von Juni bis Mitte September genutzt werden kann. Es befindet sich an einer ruhigen Stelle am südlichen Ufer des Walchensees und bietet die idealen Voraussetzungen für einen entspannten Badetag.
 
-<hr class="clear-both border-none my-8">
+<hr class="clear-both border-none my-14">

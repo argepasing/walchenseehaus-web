@@ -3,7 +3,7 @@ layout: "@/layouts/BaseLayout.astro"
 title: Datenschutz
 ---
 
-# Datenschutzerklärung
+## Datenschutzerklärung
 
 Wir freuen uns sehr über Ihr Interesse an unserem Verein. Datenschutz hat einen besonders hohen Stellenwert für den Vorstand des Jugendhaus Walchensee e.V.. Eine Nutzung der Internetseiten des Jugendhaus Walchensee e.V. ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Vereins über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
 

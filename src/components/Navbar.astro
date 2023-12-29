@@ -1,16 +1,51 @@
 ---
+/* <li class="mx-0 md:mx-2"><a href="/mitglieder/" class={currentPath === "/mitglieder/" ? "navbar-item active" : "navbar-item"}>Mitgliederbereich</a></li> */
 const currentPath = Astro.url.pathname;
 ---
 
 <nav data-current-path={currentPath} class="mb-4 border-b py-4 shadow">
   <ul class="flex flex-row items-center justify-center">
-    <li class="mx-2"><a href="/" class={currentPath === "/" ? "navbar-item active" : "navbar-item"}>Willkommen</a></li>
-    <li class="mx-2"><a href="/haus/" class={currentPath === "/haus/" ? "navbar-item active" : "navbar-item"}>Das Haus</a></li>
-    <li class="mx-2"><a href="/lage/" class={currentPath === "/lage/" ? "navbar-item active" : "navbar-item"}>Die Lage</a></li>
-    <li class="mx-2"><a href="/geschichte/" class={currentPath === "/geschichte/" ? "navbar-item active" : "navbar-item"}>Die Geschichte</a></li>
-    <li class="mx-2"><a href="/anfahrt/" class={currentPath === "/anfahrt/" ? "navbar-item active" : "navbar-item"}>Die Anfahrt</a></li>
-    <li class="mx-2"><a href="/verein/" class={currentPath === "/verein/" ? "navbar-item active" : "navbar-item"}>Der Verein</a></li>
-    <li class="mx-2"><a href="/preise/" class={currentPath === "/preise/" ? "navbar-item active" : "navbar-item"}>Preise und Buchung</a></li>
-    <li class="mx-2"><a href="/mitglieder/" class={currentPath === "/mitglieder/" ? "navbar-item active" : "navbar-item"}>Mitgliederbereich</a></li>
+    <li class="mx-0 md:mx-2">
+      <a href="/" class={currentPath === "/" ? "navbar-item active" : "navbar-item"}>
+        <span class="lg:hidden">Start</span>
+        <span class="hidden lg:inline-block">Willkommen</span>
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/haus/" class={currentPath === "/haus/" ? "navbar-item active" : "navbar-item"}>
+        <span class="hidden md:inline-block">Das</span>
+        Haus
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/lage/" class={currentPath === "/lage/" ? "navbar-item active" : "navbar-item"}>
+        <span class="hidden md:inline-block">Die</span>
+        Lage
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/geschichte/" class={currentPath === "/geschichte/" ? "navbar-item active" : "navbar-item"}>
+        <span class="hidden md:inline-block">Die</span>
+        Geschichte
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/anfahrt/" class={currentPath === "/anfahrt/" ? "navbar-item active" : "navbar-item"}>
+        <span class="hidden md:inline-block">Die</span>
+        Anfahrt
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/verein/" class={currentPath === "/verein/" ? "navbar-item active" : "navbar-item"}>
+        <span class="hidden md:inline-block">Der</span>
+        Verein
+      </a>
+    </li>
+    <li class="mx-0 md:mx-2">
+      <a href="/preise/" class={currentPath === "/preise/" ? "navbar-item active" : "navbar-item"}>
+        Preise
+        <span class="hidden lg:inline-block">und Buchung</span>
+      </a>
+    </li>
   </ul>
 </nav>

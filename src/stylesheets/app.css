@@ -11,7 +11,7 @@
 }
 
 .navbar-item {
-  @apply text-nowrap px-2 py-4 text-base font-medium uppercase tracking-wider hover:text-amber-600;
+  @apply text-nowrap px-2 py-4 text-base font-medium tracking-normal hover:text-amber-600 md:tracking-wider lg:uppercase;
 }
 
 .navbar-item.active {
@@ -38,6 +38,13 @@ ul.grid li img:hover {
   @apply shadow-md;
 }
 /* END test image grid */
+
+ul.columns-2 {
+  margin-bottom: 0;
+}
+ul.columns-2 li {
+  margin-top: 0;
+}
 
 /* START - image gallery with m2dx */
 .image-gal {

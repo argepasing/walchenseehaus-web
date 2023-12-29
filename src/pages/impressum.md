@@ -3,7 +3,7 @@ layout: "@/layouts/BaseLayout.astro"
 title: Impressum
 ---
 
-# Impressum
+## Impressum
 
 #### Angaben gemäß § 5 TMG
 

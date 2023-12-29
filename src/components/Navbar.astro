@@ -5,11 +5,8 @@ const currentPath = Astro.url.pathname;
 
 <nav data-current-path={currentPath} class="mb-4 border-b py-4 shadow">
   <ul class="flex flex-row items-center justify-center">
-    <li class="mx-0 md:mx-2">
-      <a href="/" class={currentPath === "/" ? "navbar-item active" : "navbar-item"}>
-        <span class="lg:hidden">Start</span>
-        <span class="hidden lg:inline-block">Willkommen</span>
-      </a>
+    <li class="mx-0 hidden sm:block md:mx-2">
+      <a href="/" class={currentPath === "/" ? "navbar-item active" : "navbar-item"}> Willkommen</a>
     </li>
     <li class="mx-0 md:mx-2">
       <a href="/haus/" class={currentPath === "/haus/" ? "navbar-item active" : "navbar-item"}>

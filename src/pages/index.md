@@ -7,7 +7,7 @@ Das Jugendhaus Walchensee liegt am Südufer des Walchensees. Es ist eingebettet 
 
 Das Jugendhaus Walchensee ist ein ehemaliges Forsthaus, das im Winter/Frühjahr 2000 komplett renoviert wurde und seinen Gästen nun zeitgemäßen Komfort bietet.
 
-Das unbewirtschaftete, komplett ausgestattete Selbstversorgerhaus bietet Platz für bis zu 25 Personen und ist ideal für Jugendgruppen, Vereine, Seminare, Lehrgänge oder einfach mehrere Personen, die gemeinsam schöne Tage verbringen wollen.
+Das unbewirtschaftete, komplett ausgestattete Selbstversorgerhaus bietet Platz für bis zu 21 Personen und ist ideal für Jugendgruppen, Vereine, Seminare, Lehrgänge oder einfach mehrere Personen, die gemeinsam schöne Tage verbringen wollen.
 
 Für Schützinnen und Schützen, die Mitglied im DSB (oder einer Unterorganisation) sind, bietet das Haus mit fünf 10m-Ständen ideale Voraussetzungen, um in erholsamer Umgebung die eigenen Leistungen zu verbessern oder ein Trainingslager abzuhalten.
 

@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.6](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.5...v0.1.6) (2024-01-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump prettier-plugin-tailwindcss from 0.5.9 to 0.5.10 ([#10](https://github.com/argepasing/walchenseehaus-web/issues/10)) ([6d68855](https://github.com/argepasing/walchenseehaus-web/commit/6d68855370513cb6cf1a1ecad8efcce0f9ca1667))
+* **deps:** bump @astrojs/mdx from 2.0.2 to 2.0.3 ([#7](https://github.com/argepasing/walchenseehaus-web/issues/7)) ([3be9b58](https://github.com/argepasing/walchenseehaus-web/commit/3be9b58687087ef699794053cbf1ae3005776ba3))
+* **deps:** bump @astrojs/tailwind from 5.0.4 to 5.1.0 ([#9](https://github.com/argepasing/walchenseehaus-web/issues/9)) ([899d6ad](https://github.com/argepasing/walchenseehaus-web/commit/899d6add738c6d01651295118406dfff22593f9d))
+* **deps:** bump astro from 4.0.7 to 4.0.8 ([#8](https://github.com/argepasing/walchenseehaus-web/issues/8)) ([158221e](https://github.com/argepasing/walchenseehaus-web/commit/158221e67685d1eb698eade606ed096a7c887e39))
+
 ## [0.1.5](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.4...v0.1.5) (2023-12-29)
 
 

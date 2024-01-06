@@ -90,7 +90,7 @@ Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO ge
 
 #### Hosting
 
-Die von uns in Anspruch genommenen Hosting-Leistungen der Fa. Hetzner Online GmbH dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
+Wir verwenden für unsere Website den Webhosting-Anbieter Netlify. Dienstanbieter ist das amerikanische Unternehmen Netlify Inc., 2325 3rd Street, Suite 29, San Francisco, CA 94104, USA.
 
 #### Erbringung unserer satzungs- und geschäftsgemäßen Leistungen
 

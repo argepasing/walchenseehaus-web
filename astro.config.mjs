@@ -26,7 +26,6 @@ export default defineConfig({
       "import.meta.env.PACKAGE_VERSION": JSON.stringify(`v${process.env.npm_package_version}`),
     },
   },
-  prefetch: true,
   output: "server",
   adapter: netlify(),
 });

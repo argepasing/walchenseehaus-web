@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.7](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.6...v0.1.7) (2024-01-06)
+
+
+### Bug Fixes
+
+* update deps ([aaef53e](https://github.com/argepasing/walchenseehaus-web/commit/aaef53e7225af030b4d397a0340f325edfccda67))
+* update privacy policy ([0866b85](https://github.com/argepasing/walchenseehaus-web/commit/0866b858af56dd307ed4ee9ba7a294b6a1bd2014))
+
 ## [0.1.6](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.5...v0.1.6) (2024-01-01)
 
 

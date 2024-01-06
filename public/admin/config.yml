@@ -13,7 +13,7 @@ collections:
     label_singular: Seite
     folder: "src/pages/"
     slug: "{{slug}}"
-    create: true
+    create: false
     delete: false
     editor:
       preview: false

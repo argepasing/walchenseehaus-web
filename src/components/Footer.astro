@@ -57,7 +57,7 @@ const current_year = new Date().getFullYear();
         </ul>
       </nav>
 
-      <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-30">
+      <p title={`${package_version} • ${git_commit_hash?.substring(0, 7)}`} class="text-xs opacity-30">
         © {current_year} Jugendhaus Walchensee e.V. • {package_version}
       </p>
     </div>

@@ -26,6 +26,6 @@ export default defineConfig({
       "import.meta.env.PACKAGE_VERSION": JSON.stringify(`v${process.env.npm_package_version}`),
     },
   },
-  output: "server",
+  output: "hybrid",
   adapter: netlify(),
 });

@@ -1,5 +1,8 @@
 ---
 import Layout from "@/layouts/BaseLayout.astro";
+const {
+  geo: { city, country, subdivision },
+} = Astro.locals.netlify.context;
 ---
 
 <Layout title="Mitgliederbereich">
@@ -9,5 +12,6 @@ import Layout from "@/layouts/BaseLayout.astro";
     <i class="bi bi-person-lock text-5xl"></i>
     <br />
     <span class="mt-4 block">Der Mitgliederbereich befindet sich noch im Aufbau.</span>
+    <p class="text-xs">👋 Hello, friendly visitor from {city} ({subdivision.name}), {country.code} - {country.name}!</p>
   </p>
 </Layout>

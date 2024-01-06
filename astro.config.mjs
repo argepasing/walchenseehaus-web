@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 
+import netlify from "@astrojs/netlify";
 import tailwind from "@astrojs/tailwind";
 import mdx from "@astrojs/mdx";
 import remarkDirective from "remark-directive";
@@ -25,4 +26,6 @@ export default defineConfig({
       "import.meta.env.PACKAGE_VERSION": JSON.stringify(`v${process.env.npm_package_version}`),
     },
   },
+  output: "server",
+  adapter: netlify(),
 });

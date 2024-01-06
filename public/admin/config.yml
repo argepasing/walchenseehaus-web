@@ -3,16 +3,20 @@ backend:
   branch: main
 
 site_url: https://www.walchenseehaus.de
-locale: "de"
+locale: de
 media_folder: "src/images"
 public_folder: "/images/uploads"
 
 collections:
-  - name: "page"
-    label: "Seite"
+  - name: page
+    label: Seiten
+    label_singular: Seite
     folder: "src/pages/"
-    create: true
     slug: "{{slug}}"
+    create: true
+    delete: false
+    editor:
+      preview: false
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Title", name: "title", widget: "string" }

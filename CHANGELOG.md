@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.7...v0.1.8) (2024-01-07)
+
+
+### Bug Fixes
+
+* remove astro netlify package ([7beddcc](https://github.com/argepasing/walchenseehaus-web/commit/7beddccb823dcf61b6f83faebd07b5dfccd3a4fa))
+
 ## [0.1.7](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.6...v0.1.7) (2024-01-06)
 
 

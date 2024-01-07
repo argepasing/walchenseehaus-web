@@ -3,7 +3,7 @@ backend:
   branch: main
 
 site_url: https://www.walchenseehaus.de
-locale: en
+locale: de
 media_folder: "src/images"
 public_folder: "/images/uploads"
 

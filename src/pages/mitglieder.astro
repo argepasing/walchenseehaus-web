@@ -26,8 +26,7 @@ import Layout from "@/layouts/BaseLayout.astro";
 
 <script>
   // form sumbmit
-  const form = document.querySelector("#form");
-
+  const form = document.querySelector("#form") as HTMLFormElement;
   form.addEventListener("submit", (e) => {
     e.preventDefault();
     const formData = new FormData(form);
@@ -36,16 +35,16 @@ import Layout from "@/layouts/BaseLayout.astro";
     fetch(url)
       .then((response) => {
         if (response.ok) {
-          const wrapper = document.querySelector("#form-wrapper");
+          const wrapper = document.querySelector("#form-wrapper") as HTMLDivElement;
           wrapper.style.display = "none";
         }
         return response.text();
       })
       .then((data) => {
-        const target = document.querySelector("#target");
+        const target = document.querySelector("#target") as HTMLDivElement;
         target.innerHTML = data;
 
-        const input = document.querySelector("input[name='password']");
+        const input = document.querySelector("input[name='password']") as HTMLInputElement;
         input.value = "";
       });
   });

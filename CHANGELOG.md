@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.9](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.8...v0.1.9) (2024-01-08)
+
+
+### Bug Fixes
+
+* fu typescript ([eb466ea](https://github.com/argepasing/walchenseehaus-web/commit/eb466ea8eb2fe0d5635054f88a482dc4f7c366b5))
+* push mitglieder area ([97552d1](https://github.com/argepasing/walchenseehaus-web/commit/97552d1f2848fe8eb1f878c0419ecf855391a56b))
+
 ## [0.1.8](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.7...v0.1.8) (2024-01-07)
 
 

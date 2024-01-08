@@ -13,7 +13,9 @@ export default async (request: Request, context: Context) => {
     geo: { country },
   } = context;
 
-  const area_target_url = new URL(Netlify.env.get("VITE_MITGLIEDER_IFRAME_HOST") ?? "" + Netlify.env.get("VITE_MITGLIEDER_IFRAME_PATH") ?? "");
+  const iframeHost = Netlify.env.get("VITE_MITGLIEDER_IFRAME_HOST");
+  const iframePath = Netlify.env.get("VITE_MITGLIEDER_IFRAME_PATH");
+  const area_target_url = new URL(`${iframeHost}${iframePath}`);
   const area_secret = Netlify.env.get("VITE_MITGLIEDER_SECRET");
 
   const html_response_success = `

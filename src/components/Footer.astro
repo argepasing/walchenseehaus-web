@@ -3,7 +3,7 @@ const package_version = import.meta.env.PACKAGE_VERSION;
 const git_commit_hash = import.meta.env.COMMIT_REF;
 const now = new Date();
 const current_year = now.getFullYear();
-const build_date = new Date(now.toISOString()).toLocaleString("de-DE", {
+const build_date = now.toLocaleString("de-DE", {
   day: "2-digit",
   month: "2-digit",
   year: "numeric",

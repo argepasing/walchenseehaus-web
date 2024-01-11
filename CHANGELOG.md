@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.10](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.9...v0.1.10) (2024-01-11)
+
+
+### Bug Fixes
+
+* add build_date to footer ([a897ab7](https://github.com/argepasing/walchenseehaus-web/commit/a897ab7b596e377fd5c1a75d8513d455db274c81))
+* update astro to v4.1.2 ([d9f26fb](https://github.com/argepasing/walchenseehaus-web/commit/d9f26fb68acc9c8df2567c8f66c592e61dbbb886))
+
 ## [0.1.9](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.8...v0.1.9) (2024-01-08)
 
 

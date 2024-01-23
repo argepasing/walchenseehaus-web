@@ -1,0 +1,22 @@
+---
+interface Props {
+  active: boolean;
+  title: string;
+  body: string;
+}
+
+const { active, title, body } = Astro.props;
+---
+
+{ active && (
+<div>
+  <h1>{ title }</h1>
+  <p>{ body }</p>
+</div>
+)}
+
+<style>
+div {
+  border: 1px solid blue:
+}
+</style>

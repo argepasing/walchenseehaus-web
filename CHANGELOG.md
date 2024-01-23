@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.11](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.10...v0.1.11) (2024-01-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump prettier from 3.2.2 to 3.2.4 ([#20](https://github.com/argepasing/walchenseehaus-web/issues/20)) ([a9fac98](https://github.com/argepasing/walchenseehaus-web/commit/a9fac98fd404a7aac31892889fa02605398baaa6))
+* **deps-dev:** bump prettier-plugin-astro from 0.12.3 to 0.13.0 ([#19](https://github.com/argepasing/walchenseehaus-web/issues/19)) ([81d44ca](https://github.com/argepasing/walchenseehaus-web/commit/81d44cab18dd70cb101ed7c18c2e2aff7da54560))
+* **deps:** bump @astrojs/mdx from 2.0.4 to 2.0.6 ([#24](https://github.com/argepasing/walchenseehaus-web/issues/24)) ([a6cc6ed](https://github.com/argepasing/walchenseehaus-web/commit/a6cc6ed5463db69a39b4b7a93c7566659f6d030c))
+* **deps:** bump @netlify/functions from 2.4.1 to 2.5.1 ([#18](https://github.com/argepasing/walchenseehaus-web/issues/18)) ([7001fd3](https://github.com/argepasing/walchenseehaus-web/commit/7001fd3b104faf6b9643494d248827a623949920))
+* **deps:** bump astro from 4.1.2 to 4.2.1 ([#22](https://github.com/argepasing/walchenseehaus-web/issues/22)) ([2b8b36c](https://github.com/argepasing/walchenseehaus-web/commit/2b8b36cc9e994afde5865d69bee12b4faee6287f))
+
 ## [0.1.10](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.9...v0.1.10) (2024-01-11)
 
 

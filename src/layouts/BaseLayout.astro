@@ -6,7 +6,7 @@ const currentPath = Astro.url.pathname;
 
 import Header from "@/components/Header.astro";
 import Navbar from "@/components/Navbar.astro";
-import Buchung from "@/components/Buchung.astro";
+// import Buchung from "@/components/Buchung.astro";
 import Footer from "@/components/Footer.astro";
 ---
 
@@ -26,7 +26,6 @@ import Footer from "@/components/Footer.astro";
     <Header />
     <Navbar />
     <main class="prose mx-auto px-6" style="width: 1090px; max-width: 100%; min-height: 600px;">
-      <Buchung />
       <slot />
     </main>
     <Footer />

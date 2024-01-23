@@ -30,7 +30,7 @@ collections:
     files:
       - name: buchung
         label: Buchungsaufforderung
-        file: "src/content/hinweis/buchung.yml"
+        file: "src/content/hinweis/buchung.json"
         fields:
           - { label: Aktive, name: active, widget: boolean, default: false }
           - { label: Title, name: title, widget: string }

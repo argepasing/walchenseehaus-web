@@ -32,6 +32,6 @@ collections:
         label: Buchungsaufforderung
         file: "src/content/hinweis/buchung.yml"
         fields:
-          - {label: Aktive, name: active, widget: boolean, default: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Aktive, name: active, widget: boolean, default: false }
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: text }

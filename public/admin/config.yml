@@ -21,3 +21,17 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: hinweis
+    label: Hinweis
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: buchung
+        label: Buchungsaufforderung
+        file: "src/content/hinweis/buchung.yml"
+        fields:
+          - {label: Aktive, name: active, widget: boolean, default: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}

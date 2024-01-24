@@ -18,9 +18,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: Layout, name: layout, widget: hidden, default: page }
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
 
   - name: hinweis
     label: Hinweis
@@ -29,9 +29,9 @@ collections:
       preview: false
     files:
       - name: buchung
-        label: Buchungsaufforderung
-        file: "src/content/hinweis/buchung.json"
+        label: Buchungs-Hinweis
+        file: "src/content/booking/hint.json"
         fields:
-          - { label: Aktive, name: active, widget: boolean, default: false }
+          - { label: Active, name: active, widget: boolean, default: false }
           - { label: Title, name: title, widget: string }
-          - { label: Body, name: body, widget: text }
+          - { label: Body, name: body, widget: markdown }

@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.12](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.11...v0.1.12) (2024-01-27)
+
+
+### Bug Fixes
+
+* improve hint ([7c9e41b](https://github.com/argepasing/walchenseehaus-web/commit/7c9e41b07d6e4bcbc603a0c84c644c8ff9a60022))
+* update to latest astro ([4cf2888](https://github.com/argepasing/walchenseehaus-web/commit/4cf2888666ca149248476097a70507145eada5f0))
+
 ## [0.1.11](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.10...v0.1.11) (2024-01-23)
 
 

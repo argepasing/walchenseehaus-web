@@ -34,4 +34,4 @@ collections:
         fields:
           - { label: Active, name: active, widget: boolean, default: false }
           - { label: Title, name: title, widget: string }
-          - { label: Body, name: body, widget: markdown }
+          - { label: Body, name: body, widget: markdown, modes: raw }

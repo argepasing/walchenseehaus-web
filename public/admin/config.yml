@@ -30,7 +30,7 @@ collections:
     files:
       - name: buchung
         label: Buchungs-Hinweis
-        file: "src/content/booking/hint.json"
+        file: "src/content/booking/hint.md"
         fields:
           - { label: Active, name: active, widget: boolean, default: false }
           - { label: Title, name: title, widget: string }

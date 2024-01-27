@@ -13,6 +13,7 @@ const { active, title, body } = data as HintData;
 {
   !!active && (
     <div>
+      <i class="bi bi-megaphone text-2xl" />
       <h1>{title}</h1>
       <p>{body}</p>
     </div>
@@ -21,12 +22,12 @@ const { active, title, body } = data as HintData;
 
 <style>
   div {
-    @apply rounded border-2 border-amber-300 bg-amber-100 p-4;
+    @apply rounded border-2 border-amber-300 bg-amber-100 p-4 text-amber-900;
   }
   h1 {
     @apply mb-2 text-base font-semibold text-amber-900;
   }
   p {
-    @apply m-0 text-sm text-amber-900;
+    @apply m-0 text-sm;
   }
 </style>

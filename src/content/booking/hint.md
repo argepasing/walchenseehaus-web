@@ -1,11 +1,12 @@
 ---
-active: false
+active: true
 title: Freie Termine verfügbar
 ---
-Kurzfristig sind noch freie Kapazitäten im Kalendar entstanden.
 
-Folgende **Termine** sind frei: KW00.
+Es sind kurzfristig noch Lüchen im Kalendar entstanden.
 
-Melden Sie sich bitte telefonisch, siehe [Preise](/preise/)
+Folgende **Termine** sind möglich, KW00 und DD.MM.YYYY
+
+Melden Sie sich bitte direkt telefonisch.
 
 Vielen Dank.

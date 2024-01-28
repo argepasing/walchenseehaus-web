@@ -1,27 +1,26 @@
 ---
-import data from "@/content/booking/hint.json";
-
-interface HintData {
-  active: boolean;
-  title: string;
-  body: string;
-}
-
-const { active, title, body } = data as HintData;
+import * as data from "@/content/booking/hint.md";
+import { Content as HintBody } from "@/content/booking/hint.md";
 ---
 
 {
-  !!active && (
-    <div>
-      <i class="bi bi-megaphone text-2xl" />
-      <h1>{title}</h1>
-      <p>{body}</p>
+  !!data.frontmatter.active && (
+    <div class="not-prose wrapper grid">
+      <div class="">
+        <i class="bi bi-megaphone text-4xl" />
+      </div>
+      <div class="">
+        <h1>{data.frontmatter.title}</h1>
+        <p>
+          <HintBody />
+        </p>
+      </div>
     </div>
   )
 }
 
 <style>
-  div {
+  div.wrapper {
     @apply rounded border-2 border-amber-300 bg-amber-100 p-4 text-amber-900;
   }
   h1 {

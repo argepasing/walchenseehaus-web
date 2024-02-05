@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
-    "@astrojs/mdx": "^2.1.0",
+    "@astrojs/mdx": "^2.1.1",
     "@astrojs/tailwind": "^5.1.0",
     "@netlify/functions": "^2.5.1",
     "astro": "^4.2.6",

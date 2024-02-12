@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.14](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.13...v0.1.14) (2024-02-12)
+
+
+### Bug Fixes
+
+* Bump @astrojs/check from 0.4.1 to 0.5.2 ([#30](https://github.com/argepasing/walchenseehaus-web/issues/30)) ([560c13c](https://github.com/argepasing/walchenseehaus-web/commit/560c13c31d8662f95f18fea50b32e86632139c50))
+* Bump astro from 4.3.2 to 4.3.5 ([#31](https://github.com/argepasing/walchenseehaus-web/issues/31)) ([fc4d73e](https://github.com/argepasing/walchenseehaus-web/commit/fc4d73ef0205732171e90ad08bc117621fea9d64))
+
 ## [0.1.13](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.12...v0.1.13) (2024-02-05)
 
 

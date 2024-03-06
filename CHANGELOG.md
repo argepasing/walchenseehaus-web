@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.15](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.14...v0.1.15) (2024-03-06)
+
+
+### Bug Fixes
+
+* Bump @astrojs/check from 0.5.2 to 0.5.6 ([#39](https://github.com/argepasing/walchenseehaus-web/issues/39)) ([ba99c45](https://github.com/argepasing/walchenseehaus-web/commit/ba99c454a8976a6bf0a89ec3ecbbbb25af3ceaa7))
+* Bump @netlify/functions from 2.5.1 to 2.6.0 ([#35](https://github.com/argepasing/walchenseehaus-web/issues/35)) ([0509ecc](https://github.com/argepasing/walchenseehaus-web/commit/0509ecc03b2c10b71b1cd2440f3512e8433292cf))
+* Bump astro from 4.3.5 to 4.4.12 ([#41](https://github.com/argepasing/walchenseehaus-web/issues/41)) ([1782fb2](https://github.com/argepasing/walchenseehaus-web/commit/1782fb22eea3a3d858f4fd194f1716cf1d43c3a4))
+
 ## [0.1.14](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.13...v0.1.14) (2024-02-12)
 
 

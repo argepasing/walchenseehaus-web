@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.16](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.15...v0.1.16) (2024-03-16)
+
+
+### Bug Fixes
+
+* Bump astro from 4.4.12 to 4.5.5 ([#47](https://github.com/argepasing/walchenseehaus-web/issues/47)) ([f52d5b8](https://github.com/argepasing/walchenseehaus-web/commit/f52d5b8b0722cdebd604106f324f0b4615fa7d7b))
+* Bump prettier-plugin-tailwindcss from 0.5.11 to 0.5.12 ([#44](https://github.com/argepasing/walchenseehaus-web/issues/44)) ([daae6d6](https://github.com/argepasing/walchenseehaus-web/commit/daae6d6df7a673ce8c5036930fb2c2569f62b09f))
+* Bump typescript from 5.3.3 to 5.4.2 ([#42](https://github.com/argepasing/walchenseehaus-web/issues/42)) ([69a8fe0](https://github.com/argepasing/walchenseehaus-web/commit/69a8fe049f908eb220c6f385aa804afa572b0c90))
+* remove dark styles from input ([57222ea](https://github.com/argepasing/walchenseehaus-web/commit/57222ea2501ce4ffd62ae19b3bee6bfca8a10bbb))
+
 ## [0.1.15](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.14...v0.1.15) (2024-03-06)
 
 

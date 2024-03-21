@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.17](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.16...v0.1.17) (2024-03-18)
+
+
+### Bug Fixes
+
+* Bump @astrojs/check from 0.5.6 to 0.5.9 ([#48](https://github.com/argepasing/walchenseehaus-web/issues/48)) ([8a52057](https://github.com/argepasing/walchenseehaus-web/commit/8a5205722a0ee22eba4d4c175913a25d267b704a))
+* Bump @astrojs/mdx from 2.1.1 to 2.2.0 ([#49](https://github.com/argepasing/walchenseehaus-web/issues/49)) ([b4e07e2](https://github.com/argepasing/walchenseehaus-web/commit/b4e07e22410e40ec569e45cfb71bc096a7efbf86))
+
 ## [0.1.16](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.15...v0.1.16) (2024-03-16)
 
 

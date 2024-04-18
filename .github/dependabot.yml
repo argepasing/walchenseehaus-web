@@ -8,6 +8,8 @@ updates:
       interval: "weekly"
 
   - package-ecosystem: "npm"
+    commit-message:
+      prefix: fix
     directory: "/"
     schedule:
       interval: "weekly"

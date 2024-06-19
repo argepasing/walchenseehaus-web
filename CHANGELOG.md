@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.20](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.19...v0.1.20) (2024-06-19)
+
+
+### Bug Fixes
+
+* bump braces from 3.0.2 to 3.0.3 ([#99](https://github.com/argepasing/walchenseehaus-web/issues/99)) ([3437b4d](https://github.com/argepasing/walchenseehaus-web/commit/3437b4da0911e3fed624e4470916c016b6732110))
+
 ## [0.1.19](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.18...v0.1.19) (2024-06-19)
 
 

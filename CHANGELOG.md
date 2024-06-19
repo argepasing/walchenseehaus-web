@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.19](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.18...v0.1.19) (2024-06-19)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.0.1 to 3.1.0 ([#89](https://github.com/argepasing/walchenseehaus-web/issues/89)) ([8c0deca](https://github.com/argepasing/walchenseehaus-web/commit/8c0deca0ebc009d29244838f5f30dee870bdf2ba))
+* bump astro from 4.9.2 to 4.10.3 ([#97](https://github.com/argepasing/walchenseehaus-web/issues/97)) ([9434e5a](https://github.com/argepasing/walchenseehaus-web/commit/9434e5af87ef3639210d9a3caace1685fd67c88e))
+* bump braces from 3.0.2 to 3.0.3 ([#98](https://github.com/argepasing/walchenseehaus-web/issues/98)) ([07a220b](https://github.com/argepasing/walchenseehaus-web/commit/07a220bd0c4103f1b6f2da58f155d47b44e36d89))
+* bump prettier from 3.2.5 to 3.3.2 ([#94](https://github.com/argepasing/walchenseehaus-web/issues/94)) ([846bb61](https://github.com/argepasing/walchenseehaus-web/commit/846bb61c4176bce0d9113b25ff67a5b2e5b78a88))
+* bump prettier-plugin-tailwindcss from 0.5.14 to 0.6.4 ([#95](https://github.com/argepasing/walchenseehaus-web/issues/95)) ([aa17f2f](https://github.com/argepasing/walchenseehaus-web/commit/aa17f2f9e1cb5338663589126fb6d1bd2a3fe01d))
+* bump tailwindcss from 3.4.3 to 3.4.4 ([#90](https://github.com/argepasing/walchenseehaus-web/issues/90)) ([b9b76dd](https://github.com/argepasing/walchenseehaus-web/commit/b9b76ddde8fd61ac7b83a34ef2ba60670d1671eb))
+
 ## [0.1.18](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.17...v0.1.18) (2024-05-30)
 
 

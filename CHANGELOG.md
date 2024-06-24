@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.21](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.20...v0.1.21) (2024-06-24)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.0 to 3.1.1 ([#105](https://github.com/argepasing/walchenseehaus-web/issues/105)) ([6022e77](https://github.com/argepasing/walchenseehaus-web/commit/6022e77da61cb6c4a992537e5cb7822184279e24))
+* bump @netlify/functions from 2.7.0 to 2.8.0 ([#104](https://github.com/argepasing/walchenseehaus-web/issues/104)) ([f11a0ea](https://github.com/argepasing/walchenseehaus-web/commit/f11a0ea811e54dc6a3f201e8bc5bb0d6d3af8603))
+* bump astro from 4.10.3 to 4.11.0 ([#101](https://github.com/argepasing/walchenseehaus-web/issues/101)) ([6ad19ee](https://github.com/argepasing/walchenseehaus-web/commit/6ad19eec5874aec59a6067bb59e5e2b8f2564cb7))
+* bump prettier-plugin-tailwindcss from 0.6.4 to 0.6.5 ([#102](https://github.com/argepasing/walchenseehaus-web/issues/102)) ([8cbe72a](https://github.com/argepasing/walchenseehaus-web/commit/8cbe72a9fa52c7890bc5f31057f17effbdea2921))
+* bump typescript from 5.4.5 to 5.5.2 ([#103](https://github.com/argepasing/walchenseehaus-web/issues/103)) ([306d37a](https://github.com/argepasing/walchenseehaus-web/commit/306d37a2ad2b2ec8b41618329a4cb4385e6d4dfe))
+
 ## [0.1.20](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.19...v0.1.20) (2024-06-19)
 
 

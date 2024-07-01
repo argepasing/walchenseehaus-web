@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.22](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.21...v0.1.22) (2024-07-01)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.1 to 3.1.2 ([#108](https://github.com/argepasing/walchenseehaus-web/issues/108)) ([2c00fbb](https://github.com/argepasing/walchenseehaus-web/commit/2c00fbb7b07247000e813f270312778d58d945c0))
+* bump astro from 4.11.0 to 4.11.3 ([#107](https://github.com/argepasing/walchenseehaus-web/issues/107)) ([7e04faa](https://github.com/argepasing/walchenseehaus-web/commit/7e04faa8d6c45d65a92351548af904fba82add7c))
+
 ## [0.1.21](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.20...v0.1.21) (2024-06-24)
 
 

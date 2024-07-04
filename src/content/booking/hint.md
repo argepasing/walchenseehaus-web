@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 title: Freie Termine verfügbar
 ---
 

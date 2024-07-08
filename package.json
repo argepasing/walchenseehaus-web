@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.7.0",
     "@astrojs/mdx": "^3.1.2",
     "@astrojs/tailwind": "^5.1.0",
-    "@netlify/functions": "^2.8.0",
+    "@netlify/functions": "^2.8.1",
     "astro": "^4.11.3",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "^3.0.0",

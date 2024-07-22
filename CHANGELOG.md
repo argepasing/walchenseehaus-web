@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.23](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.22...v0.1.23) (2024-07-22)
+
+
+### Bug Fixes
+
+* bump @astrojs/check from 0.7.0 to 0.8.1 ([#114](https://github.com/argepasing/walchenseehaus-web/issues/114)) ([a8b2500](https://github.com/argepasing/walchenseehaus-web/commit/a8b25005811059f7366ed0164e7d7ae045c3bcf4))
+* bump @astrojs/check from 0.8.1 to 0.8.2 ([#116](https://github.com/argepasing/walchenseehaus-web/issues/116)) ([abd1e1c](https://github.com/argepasing/walchenseehaus-web/commit/abd1e1cae78668af1a1935eb13349490872526eb))
+* bump @astrojs/mdx from 3.1.2 to 3.1.3 ([#118](https://github.com/argepasing/walchenseehaus-web/issues/118)) ([2261608](https://github.com/argepasing/walchenseehaus-web/commit/226160809e1e6e04cf030b4bbc71eedaac684426))
+* bump @netlify/functions from 2.8.0 to 2.8.1 ([#110](https://github.com/argepasing/walchenseehaus-web/issues/110)) ([0ae2fbf](https://github.com/argepasing/walchenseehaus-web/commit/0ae2fbf6c6b3207114a9d89a68d4e28738e52332))
+* bump astro from 4.11.3 to 4.11.5 ([#112](https://github.com/argepasing/walchenseehaus-web/issues/112)) ([4144c88](https://github.com/argepasing/walchenseehaus-web/commit/4144c88a40e1abfc2b51d6a73da2989c9db0b837))
+* bump astro from 4.11.5 to 4.12.2 ([#119](https://github.com/argepasing/walchenseehaus-web/issues/119)) ([b4f395b](https://github.com/argepasing/walchenseehaus-web/commit/b4f395be6dca40eecd8c308d46da67c950f29ef8))
+* bump prettier from 3.3.2 to 3.3.3 ([#115](https://github.com/argepasing/walchenseehaus-web/issues/115)) ([e64bd40](https://github.com/argepasing/walchenseehaus-web/commit/e64bd40f837c07306bd40b46b2c171f800d8df93))
+* bump prettier-plugin-astro from 0.14.0 to 0.14.1 ([#120](https://github.com/argepasing/walchenseehaus-web/issues/120)) ([b365346](https://github.com/argepasing/walchenseehaus-web/commit/b36534646c7d719cb4ba2bf5c9eee3f5c96b9e26))
+* bump tailwindcss from 3.4.4 to 3.4.6 ([#117](https://github.com/argepasing/walchenseehaus-web/issues/117)) ([82aa884](https://github.com/argepasing/walchenseehaus-web/commit/82aa88499c2b205176e59d7f688253b937aa49db))
+* bump typescript from 5.5.2 to 5.5.3 ([#111](https://github.com/argepasing/walchenseehaus-web/issues/111)) ([af81894](https://github.com/argepasing/walchenseehaus-web/commit/af81894ee32775604d294dfc1ef122971fbea5fb))
+
 ## [0.1.22](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.21...v0.1.22) (2024-07-01)
 
 

@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.27](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.26...v0.1.27) (2024-09-09)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.3 to 3.1.4 ([#138](https://github.com/argepasing/walchenseehaus-web/issues/138)) ([f5ea5c7](https://github.com/argepasing/walchenseehaus-web/commit/f5ea5c75aca72d365aea016918d40a995f109fb6))
+* bump @astrojs/mdx from 3.1.4 to 3.1.5 ([#142](https://github.com/argepasing/walchenseehaus-web/issues/142)) ([49a3320](https://github.com/argepasing/walchenseehaus-web/commit/49a332062296b95a3de5d673eab80fd50db60964))
+* bump @tailwindcss/typography from 0.5.14 to 0.5.15 ([#143](https://github.com/argepasing/walchenseehaus-web/issues/143)) ([beaa74d](https://github.com/argepasing/walchenseehaus-web/commit/beaa74dd4061f1bd7e68a0f38c7f8263231d4f97))
+* bump astro from 4.14.2 to 4.14.5 ([#139](https://github.com/argepasing/walchenseehaus-web/issues/139)) ([a42ec8f](https://github.com/argepasing/walchenseehaus-web/commit/a42ec8f1b3baf1fe8936002811f9b879a40d6667))
+* bump astro from 4.14.5 to 4.15.4 ([#144](https://github.com/argepasing/walchenseehaus-web/issues/144)) ([95ef619](https://github.com/argepasing/walchenseehaus-web/commit/95ef619328f78bb2986023f92e115b06fd0a5cdb))
+* bump micromatch from 4.0.7 to 4.0.8 ([#145](https://github.com/argepasing/walchenseehaus-web/issues/145)) ([7e5a1f9](https://github.com/argepasing/walchenseehaus-web/commit/7e5a1f966a6b56443799564bf9fb9f68fc19b925))
+
 ## [0.1.26](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.25...v0.1.26) (2024-08-19)
 
 

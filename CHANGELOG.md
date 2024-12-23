@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.30](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.29...v0.1.30) (2024-12-23)
+
+
+### Bug Fixes
+
+* bump @astrojs/tailwind from 5.1.3 to 5.1.4 ([#188](https://github.com/argepasing/walchenseehaus-web/issues/188)) ([18e11e8](https://github.com/argepasing/walchenseehaus-web/commit/18e11e8cfd46f73a57e2599b5693ad2f6948bed4))
+* bump @netlify/functions from 2.8.2 to 3.0.0 ([#191](https://github.com/argepasing/walchenseehaus-web/issues/191)) ([4c295f8](https://github.com/argepasing/walchenseehaus-web/commit/4c295f8374aabb279ba2115366373e9960bd78fb))
+* bump tailwindcss from 3.4.16 to 3.4.17 ([#190](https://github.com/argepasing/walchenseehaus-web/issues/190)) ([593b81d](https://github.com/argepasing/walchenseehaus-web/commit/593b81d12a4cf94c3162ce3dd9e28f0e828a2d17))
+
 ## [0.1.29](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.28...v0.1.29) (2024-12-19)
 
 

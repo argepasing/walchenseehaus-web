@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* open-sans-latin-wght-normal */
 /* https://fontsource.org/fonts/open-sans/cdn */
 @font-face {

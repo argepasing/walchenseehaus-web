@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.30](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.29...v0.1.30) (2025-02-03)
+
+
+### Bug Fixes
+
+* bump @astrojs/tailwind from 5.1.3 to 5.1.4 ([#188](https://github.com/argepasing/walchenseehaus-web/issues/188)) ([18e11e8](https://github.com/argepasing/walchenseehaus-web/commit/18e11e8cfd46f73a57e2599b5693ad2f6948bed4))
+* bump @netlify/functions from 2.8.2 to 3.0.0 ([#191](https://github.com/argepasing/walchenseehaus-web/issues/191)) ([4c295f8](https://github.com/argepasing/walchenseehaus-web/commit/4c295f8374aabb279ba2115366373e9960bd78fb))
+* bump @tailwindcss/typography from 0.5.15 to 0.5.16 ([#195](https://github.com/argepasing/walchenseehaus-web/issues/195)) ([46f7871](https://github.com/argepasing/walchenseehaus-web/commit/46f7871ef8db689171e04487ab92f2efccabc2f3))
+* bump nanoid from 3.3.7 to 3.3.8 ([#198](https://github.com/argepasing/walchenseehaus-web/issues/198)) ([27945fc](https://github.com/argepasing/walchenseehaus-web/commit/27945fce54216cc1eeec8f66e13a503fc1232fee))
+* bump prettier-plugin-tailwindcss from 0.6.10 to 0.6.11 ([#200](https://github.com/argepasing/walchenseehaus-web/issues/200)) ([0954e2c](https://github.com/argepasing/walchenseehaus-web/commit/0954e2c83f97d8bd00f24e7eac642671a8a2dc0c))
+* bump prettier-plugin-tailwindcss from 0.6.9 to 0.6.10 ([#199](https://github.com/argepasing/walchenseehaus-web/issues/199)) ([36c3dcf](https://github.com/argepasing/walchenseehaus-web/commit/36c3dcf0550f41b9a77822726f69a63342c2beb9))
+* bump tailwindcss from 3.4.16 to 3.4.17 ([#190](https://github.com/argepasing/walchenseehaus-web/issues/190)) ([593b81d](https://github.com/argepasing/walchenseehaus-web/commit/593b81d12a4cf94c3162ce3dd9e28f0e828a2d17))
+* bump typescript from 5.7.2 to 5.7.3 ([#196](https://github.com/argepasing/walchenseehaus-web/issues/196)) ([c1c23d5](https://github.com/argepasing/walchenseehaus-web/commit/c1c23d5abe391666bb8649a062bd749aab8c7e8a))
+* update astro to latest ([2b9839b](https://github.com/argepasing/walchenseehaus-web/commit/2b9839b7144727501b5d55362373b70f9d948b11))
+* update tailwindcss to v4 ([c505bc2](https://github.com/argepasing/walchenseehaus-web/commit/c505bc24eb6f41243fd03b76b30201e637b32c0a))
+
 ## [0.1.29](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.28...v0.1.29) (2024-12-19)
 
 

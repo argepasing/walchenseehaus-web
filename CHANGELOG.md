@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.31](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.30...v0.1.31) (2025-02-17)
+
+
+### Bug Fixes
+
+* bump @tailwindcss/vite from 4.0.3 to 4.0.6 ([#212](https://github.com/argepasing/walchenseehaus-web/issues/212)) ([e571ad6](https://github.com/argepasing/walchenseehaus-web/commit/e571ad6a11094aa529a6933d9fb829bfb18143ed))
+* bump prettier from 3.4.2 to 3.5.1 ([#214](https://github.com/argepasing/walchenseehaus-web/issues/214)) ([a8901b5](https://github.com/argepasing/walchenseehaus-web/commit/a8901b5bb807d037eac4cddd2c8c4461a596de12))
+* bump tailwindcss from 4.0.3 to 4.0.6 ([#213](https://github.com/argepasing/walchenseehaus-web/issues/213)) ([f09532e](https://github.com/argepasing/walchenseehaus-web/commit/f09532e502b624d80c51bb3811898565cd1e0504))
+
 ## [0.1.30](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.29...v0.1.30) (2025-02-03)
 
 

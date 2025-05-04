@@ -1,7 +1,7 @@
 {
   "name": "walchenseehaus-web",
   "type": "module",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.2.3",
     "@netlify/functions": "^3.0.4",
-    "@tailwindcss/vite": "^4.1.5",
+    "@tailwindcss/vite": "^4.1.0",
     "astro": "^5.7.10",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "^3.0.1",

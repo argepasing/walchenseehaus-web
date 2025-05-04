@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.1.31](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.30...v0.1.31) (2025-05-04)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 4.0.8 to 4.1.0 ([#219](https://github.com/argepasing/walchenseehaus-web/issues/219)) ([b3f7697](https://github.com/argepasing/walchenseehaus-web/commit/b3f7697ad2bcee016d764d44df04ae3412911809))
+* bump @astrojs/mdx from 4.2.0 to 4.2.1 ([#231](https://github.com/argepasing/walchenseehaus-web/issues/231)) ([0547b46](https://github.com/argepasing/walchenseehaus-web/commit/0547b46e75aa05e940e283ac64ea781361781baa))
+* bump @astrojs/mdx from 4.2.1 to 4.2.2 ([#235](https://github.com/argepasing/walchenseehaus-web/issues/235)) ([31018f5](https://github.com/argepasing/walchenseehaus-web/commit/31018f507df56cfb87bce8e2e8c81df8251a82a8))
+* bump @netlify/functions from 3.0.0 to 3.0.4 ([#233](https://github.com/argepasing/walchenseehaus-web/issues/233)) ([39ce989](https://github.com/argepasing/walchenseehaus-web/commit/39ce9896f8549ccc681a2ae47704b4ccdd2265a9))
+* bump @tailwindcss/vite from 4.0.14 to 4.0.15 ([#232](https://github.com/argepasing/walchenseehaus-web/issues/232)) ([ec129f3](https://github.com/argepasing/walchenseehaus-web/commit/ec129f361d5836b3ed6ef324c93bf32070059291))
+* bump @tailwindcss/vite from 4.0.16 to 4.0.17 ([#236](https://github.com/argepasing/walchenseehaus-web/issues/236)) ([7d65b60](https://github.com/argepasing/walchenseehaus-web/commit/7d65b60c795aafa2548395baa91a8164e49a46c0))
+* bump @tailwindcss/vite from 4.0.3 to 4.0.6 ([#212](https://github.com/argepasing/walchenseehaus-web/issues/212)) ([e571ad6](https://github.com/argepasing/walchenseehaus-web/commit/e571ad6a11094aa529a6933d9fb829bfb18143ed))
+* bump @tailwindcss/vite from 4.0.6 to 4.0.12 ([#225](https://github.com/argepasing/walchenseehaus-web/issues/225)) ([0dde055](https://github.com/argepasing/walchenseehaus-web/commit/0dde0555ddabe908a4a9e7a1a42f192490b049a2))
+* bump @tailwindcss/vite from 4.1.0 to 4.1.4 ([#243](https://github.com/argepasing/walchenseehaus-web/issues/243)) ([f1c79f6](https://github.com/argepasing/walchenseehaus-web/commit/f1c79f647e7b82b2854b045e3332506434d401c4))
+* bump astro from 5.2.3 to 5.4.2 ([#223](https://github.com/argepasing/walchenseehaus-web/issues/223)) ([f353849](https://github.com/argepasing/walchenseehaus-web/commit/f353849f696666876cd94d0e12c4d4969f068834))
+* bump astro from 5.5.2 to 5.5.5 ([#234](https://github.com/argepasing/walchenseehaus-web/issues/234)) ([12fdb21](https://github.com/argepasing/walchenseehaus-web/commit/12fdb21dfe389ce03f0a9519580610ccd38c6cc8))
+* bump astro from 5.5.6 to 5.7.5 ([#245](https://github.com/argepasing/walchenseehaus-web/issues/245)) ([c9502e4](https://github.com/argepasing/walchenseehaus-web/commit/c9502e4af816f62fd4552c3a18bf67a32757b4e6))
+* bump prettier from 3.4.2 to 3.5.1 ([#214](https://github.com/argepasing/walchenseehaus-web/issues/214)) ([a8901b5](https://github.com/argepasing/walchenseehaus-web/commit/a8901b5bb807d037eac4cddd2c8c4461a596de12))
+* bump prettier from 3.5.1 to 3.5.3 ([#226](https://github.com/argepasing/walchenseehaus-web/issues/226)) ([11e70f9](https://github.com/argepasing/walchenseehaus-web/commit/11e70f934d29933d615046d5062451954d0808d0))
+* bump prismjs from 1.29.0 to 1.30.0 ([#247](https://github.com/argepasing/walchenseehaus-web/issues/247)) ([e54a697](https://github.com/argepasing/walchenseehaus-web/commit/e54a697bc4806374a646337d9934f5128fc68e3e))
+* bump tailwindcss from 4.0.14 to 4.0.15 ([#230](https://github.com/argepasing/walchenseehaus-web/issues/230)) ([444d913](https://github.com/argepasing/walchenseehaus-web/commit/444d9131fa9591eed4aa9ba644e84f34f3603cfd))
+* bump tailwindcss from 4.0.16 to 4.0.17 ([#237](https://github.com/argepasing/walchenseehaus-web/issues/237)) ([0c89ebc](https://github.com/argepasing/walchenseehaus-web/commit/0c89ebc5a96ace2167a6a38d944ebf98955f6b60))
+* bump tailwindcss from 4.0.3 to 4.0.6 ([#213](https://github.com/argepasing/walchenseehaus-web/issues/213)) ([f09532e](https://github.com/argepasing/walchenseehaus-web/commit/f09532e502b624d80c51bb3811898565cd1e0504))
+* bump tailwindcss from 4.1.0 to 4.1.4 ([#244](https://github.com/argepasing/walchenseehaus-web/issues/244)) ([750eaeb](https://github.com/argepasing/walchenseehaus-web/commit/750eaeb80750396f09b9b77d666af558dc4312ed))
+* bump typescript from 5.7.3 to 5.8.2 ([#228](https://github.com/argepasing/walchenseehaus-web/issues/228)) ([65c695f](https://github.com/argepasing/walchenseehaus-web/commit/65c695f4d139f18ede97afa183daab25e9213c76))
+* bump typescript from 5.8.2 to 5.8.3 ([#241](https://github.com/argepasing/walchenseehaus-web/issues/241)) ([e5826ab](https://github.com/argepasing/walchenseehaus-web/commit/e5826abcba07e7e4849a628e41983b2de5cf1c17))
+* bump vite from 6.2.4 to 6.3.4 ([#246](https://github.com/argepasing/walchenseehaus-web/issues/246)) ([f4e819b](https://github.com/argepasing/walchenseehaus-web/commit/f4e819ba681e39dd643063db2e11492e9b3803c7))
+
 ## [0.1.30](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.29...v0.1.30) (2025-02-03)
 
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.32](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.31...v0.1.32) (2025-05-20)
+
+
+### Bug Fixes
+
+* bump @netlify/functions from 3.0.4 to 3.1.8 ([#253](https://github.com/argepasing/walchenseehaus-web/issues/253)) ([d421fee](https://github.com/argepasing/walchenseehaus-web/commit/d421fee0df3f06f2ada527864b7272e32a04fdc5))
+* bump @tailwindcss/vite from 4.1.0 to 4.1.6 ([#251](https://github.com/argepasing/walchenseehaus-web/issues/251)) ([89ef240](https://github.com/argepasing/walchenseehaus-web/commit/89ef240e47a8568420883156040f8c627b4c46fc))
+* bump @tailwindcss/vite from 4.1.6 to 4.1.7 ([#255](https://github.com/argepasing/walchenseehaus-web/issues/255)) ([3028941](https://github.com/argepasing/walchenseehaus-web/commit/3028941f77ab6a41ea5c5f7c508d8e578f279506))
+* bump astro from 5.7.10 to 5.7.13 ([#257](https://github.com/argepasing/walchenseehaus-web/issues/257)) ([390da8b](https://github.com/argepasing/walchenseehaus-web/commit/390da8be849f9c025a8d5e173b786e4daf7e9bdf))
+* bump tailwindcss from 4.1.5 to 4.1.6 ([#252](https://github.com/argepasing/walchenseehaus-web/issues/252)) ([c1fd5df](https://github.com/argepasing/walchenseehaus-web/commit/c1fd5df94a7df7197e6d10a027e7852690226f95))
+
 ## [0.1.31](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.30...v0.1.31) (2025-05-04)
 
 

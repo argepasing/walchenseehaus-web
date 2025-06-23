@@ -14,7 +14,7 @@
     "@astrojs/mdx": "^4.2.3",
     "@netlify/functions": "^4.1.5",
     "@tailwindcss/vite": "^4.1.10",
-    "astro": "^5.9.3",
+    "astro": "^5.10.0",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "^3.0.1",
     "tailwindcss": "^4.1.6",

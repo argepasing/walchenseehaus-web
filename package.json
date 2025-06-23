@@ -12,7 +12,7 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.2.3",
-    "@netlify/functions": "^4.1.5",
+    "@netlify/functions": "^4.1.6",
     "@tailwindcss/vite": "^4.1.10",
     "astro": "^5.9.3",
     "astro-m2dx": "^0.7.16",

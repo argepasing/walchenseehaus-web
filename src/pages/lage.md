@@ -2,7 +2,6 @@
 layout: "@/layouts/BaseLayout.astro"
 title: Die Lage
 ---
-
 ![](src/images/lage-top-image.jpg):style{.w-1/3 .mb-4 .rounded-lg .mx-auto}
 
 :::style{.text-center}
@@ -13,15 +12,15 @@ Mit 192 m ist der Walchensee zudem der tiefste Alpensee Bayerns. Er ist bekannt 
 
 Von der einzigartigen Flora und Fauna rund um den Walchensee haben sich schon Johann Wolfgang von Goethe und Märchenkönig Ludwig II inspirieren lassen. Heute bietet das Landschaftsschutzgebiet Walchensee für alle Erholungssuchende viele Möglichkeiten, in der Natur Kraft zu tanken und das herrliche Panorama zu genießen. So kann der Walchensee – mit einer Uferlänge von insgesamt rund 27 km – mit dem Fahrrad oder zu Fuß durchgängig umrundet werden.
 
-Eine besonders beeindruckende Aussicht auf das Zwei-Seen-Land rund um den Kochelsee und den Walchensee – und weit darüber hinaus – haben Besucher des Herzogstands auf 1.680 m Höhe. Aufgrund der einzigartigen Kulisse überrascht es nicht, dass Michael „Bully“ Herbig die Sachenbacherbucht am Walchensee als Drehort für die beiden Verfilmungen der Zeichentrickserie „Wickie und die starken Männer“ (2008 und 2010) gewählt hat. Das damalige Filmdorf Flake kann seitdem in der Ortschaft Walchensee besichtigt werden.
+Eine besonders beeindruckende Aussicht auf das Zwei-Seen-Land rund um den Kochelsee und den Walchensee – und weit darüber hinaus – haben Besucher des Herzogstands auf 1.680 m Höhe. Aufgrund der einzigartigen Kulisse überrascht es nicht, dass Michael „Bully“ Herbig die Sachenbacherbucht am Walchensee als Drehort für die beiden Verfilmungen der Zeichentrickserie „Wickie und die starken Männer“ (2008 und 2010) gewählt hat. 
 
 :::
 
 ::list-style{.grid .gap-3 .grid-cols-3}
 
-- ![](src/images/lage-1.jpg)
-- ![](src/images/lage-2.jpg)
-- ![](src/images/lage-3.jpg)
-- ![](src/images/lage-4.jpg)
-- ![](src/images/lage-5.jpg)
-- ![](src/images/lage-6.jpg)
+* ![](src/images/lage-1.jpg)
+* ![](src/images/lage-2.jpg)
+* ![](src/images/lage-3.jpg)
+* ![](src/images/lage-4.jpg)
+* ![](src/images/lage-5.jpg)
+* ![](src/images/lage-6.jpg)

@@ -15,10 +15,10 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 
 | Dauer                                                                          | von                | bis                | Preis   |
 | ------------------------------------------------------------------------------ | ------------------ | ------------------ | ------- |
-| Wochenende                                                                     | Freitag, 17\:00 Uhr | Sonntag, 16\:00 Uhr | 330,- € |
-| Kurzwoche                                                                      | Sonntag, 17\:00 Uhr | Freitag, 16\:00 Uhr | 440,- € |
-| Langwoche                                                                      | Sonntag, 17\:00 Uhr | Sonntag, 16\:00 Uhr | 660,- € |
-| Bootshaus-Zuschlag                                                             | 01. Juni           | 15. September      | 15,- €  |
+| Wochenende                                                                     | Freitag, 17\:00 Uhr | Sonntag, 16\:00 Uhr | 330,- € |
+| Kurzwoche                                                                      | Sonntag, 17\:00 Uhr | Freitag, 16\:00 Uhr | 440,- € |
+| Langwoche                                                                      | Sonntag, 17\:00 Uhr | Sonntag, 16\:00 Uhr | 660,- € |
+| Bootshaus-Zuschlag                                                             | 01. Juni           | 15. September      | 15,- €  |
 | <small class="opacity-75">Stand ab 01.01.2025 - Änderungen vorbehalten</small> |                    |                    |         |
 
 :::

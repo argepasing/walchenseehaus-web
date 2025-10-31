@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.33](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.32...v0.1.33) (2025-10-31)
+
+
+### Bug Fixes
+
+* format for mdx v3 (workaround) ([a85d61a](https://github.com/argepasing/walchenseehaus-web/commit/a85d61a6a72baf30e039c83cbb9ee5d84d482430))
+
 ## [0.1.32](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.31...v0.1.32) (2025-10-28)
 
 

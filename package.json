@@ -17,7 +17,7 @@
     "astro": "^5.15.3",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "3.0.1",
-    "tailwindcss": "^4.1.16",
+    "tailwindcss": "^4.1.17",
     "typescript": "^5.9.3"
   },
   "devDependencies": {

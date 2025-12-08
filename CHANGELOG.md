@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.1.34](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.33...v0.1.34) (2025-12-08)
+
+
+### Bug Fixes
+
+* bump @astrojs/check from 0.9.5 to 0.9.6 ([#331](https://github.com/argepasing/walchenseehaus-web/issues/331)) ([054f3df](https://github.com/argepasing/walchenseehaus-web/commit/054f3df2f64e50aa54a05dad19b9af55dc546338))
+* bump @astrojs/mdx from 4.3.10 to 4.3.12 ([#328](https://github.com/argepasing/walchenseehaus-web/issues/328)) ([780bb14](https://github.com/argepasing/walchenseehaus-web/commit/780bb1482e64eb59c3e737b21a4dbb552b2c6e27))
+* bump @astrojs/mdx from 4.3.8 to 4.3.9 ([#321](https://github.com/argepasing/walchenseehaus-web/issues/321)) ([fe90122](https://github.com/argepasing/walchenseehaus-web/commit/fe90122ca14b8926a3b34ac0c57101b48317fee3))
+* bump @astrojs/mdx from 4.3.9 to 4.3.10 ([#325](https://github.com/argepasing/walchenseehaus-web/issues/325)) ([4078bd0](https://github.com/argepasing/walchenseehaus-web/commit/4078bd0ea2982409ca40f6e9c8c2495072c50722))
+* bump @netlify/functions from 5.0.1 to 5.1.0 ([#323](https://github.com/argepasing/walchenseehaus-web/issues/323)) ([fcb618a](https://github.com/argepasing/walchenseehaus-web/commit/fcb618a15d0a4cb19ffba62bc24867b67c2e8a69))
+* bump @tailwindcss/vite from 4.1.16 to 4.1.17 ([#324](https://github.com/argepasing/walchenseehaus-web/issues/324)) ([922eaa4](https://github.com/argepasing/walchenseehaus-web/commit/922eaa44fcec580af96afe1c0ded0e514b7b9d12))
+* bump astro from 5.14.6 to 5.15.3 ([#319](https://github.com/argepasing/walchenseehaus-web/issues/319)) ([9a74847](https://github.com/argepasing/walchenseehaus-web/commit/9a74847e1db1ce453b305f043199757ed0fe12be))
+* bump astro from 5.15.3 to 5.15.4 ([#326](https://github.com/argepasing/walchenseehaus-web/issues/326)) ([c8d844f](https://github.com/argepasing/walchenseehaus-web/commit/c8d844f8c674e2b27c3965d6c24e3ac3d31eb2ef))
+* bump astro from 5.15.4 to 5.15.9 ([#327](https://github.com/argepasing/walchenseehaus-web/issues/327)) ([b636c66](https://github.com/argepasing/walchenseehaus-web/commit/b636c66ac84743956c42e0ce9f02c57233f4c54f))
+* bump astro from 5.15.9 to 5.16.0 ([#329](https://github.com/argepasing/walchenseehaus-web/issues/329)) ([ea24955](https://github.com/argepasing/walchenseehaus-web/commit/ea24955df7fef604997ea32062d2463eb1628967))
+* bump astro from 5.16.0 to 5.16.3 ([#330](https://github.com/argepasing/walchenseehaus-web/issues/330)) ([d902194](https://github.com/argepasing/walchenseehaus-web/commit/d90219494b4a3f1fd3abcebfda382766237bc14a))
+* bump astro from 5.16.3 to 5.16.4 ([#337](https://github.com/argepasing/walchenseehaus-web/issues/337)) ([0838d6d](https://github.com/argepasing/walchenseehaus-web/commit/0838d6dcb5e1ec88dd1b98efc18838449ac1e800))
+* bump js-yaml from 3.14.1 to 3.14.2 ([#333](https://github.com/argepasing/walchenseehaus-web/issues/333)) ([796d660](https://github.com/argepasing/walchenseehaus-web/commit/796d6606df10733e6b8605de83fff1c7309309c6))
+* bump mdast-util-to-hast from 13.0.2 to 13.2.1 ([#334](https://github.com/argepasing/walchenseehaus-web/issues/334)) ([5140173](https://github.com/argepasing/walchenseehaus-web/commit/5140173f4dfc6f24c54db1e2a5b86e52de653dca))
+* bump prettier from 3.6.2 to 3.7.3 ([#332](https://github.com/argepasing/walchenseehaus-web/issues/332)) ([d1e6fd1](https://github.com/argepasing/walchenseehaus-web/commit/d1e6fd1af4cb57d0f081058618923537e0107b9b))
+* bump prettier from 3.7.3 to 3.7.4 ([#336](https://github.com/argepasing/walchenseehaus-web/issues/336)) ([73e4d67](https://github.com/argepasing/walchenseehaus-web/commit/73e4d672693b843ce90564cb4c7c7a5f567e2363))
+* bump prettier-plugin-tailwindcss from 0.7.1 to 0.7.2 ([#335](https://github.com/argepasing/walchenseehaus-web/issues/335)) ([87c2dea](https://github.com/argepasing/walchenseehaus-web/commit/87c2dea06404714dc8ae1c74f6a72bd47a8059f8))
+* bump tailwindcss from 4.1.16 to 4.1.17 ([#322](https://github.com/argepasing/walchenseehaus-web/issues/322)) ([b1b808a](https://github.com/argepasing/walchenseehaus-web/commit/b1b808ae674a022fe2a8403b36f236c42ac7e730))
+* pin remark-directive to 3.0.1 and fix escaped colons in preise.md ([#317](https://github.com/argepasing/walchenseehaus-web/issues/317)) ([3f99d8b](https://github.com/argepasing/walchenseehaus-web/commit/3f99d8b905009aa7d2a327092cfe6e39ead71953))
+
 ## [0.1.33](https://github.com/argepasing/walchenseehaus-web/compare/v0.1.32...v0.1.33) (2025-10-31)
 
 

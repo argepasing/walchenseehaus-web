@@ -1,7 +1,7 @@
 {
   "name": "walchenseehaus-web",
   "type": "module",
-  "version": "0.1.34",
+  "version": "0.1.35",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

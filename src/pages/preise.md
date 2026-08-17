@@ -8,6 +8,7 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 * Das Jugendhaus Walchensee wird als **Selbstversorgerhaus nur komplett** vermietet, d. h. wie viele Gäste im Jugendhaus übernachten, hat auf die Kosten keinen Einfluss.
 * Wir bitten Sie, Buchungsanfragen ausschließlich telefonisch zu stellen. Wenden Sie sich hierzu an Herrn **Georg Felbermayr** unter der Telefonnummer **+[49 89 88 69 21](tel:004989886921)**.
 * Bitte berücksichtigen Sie für Ihre Terminplanung die nachstehenden **standardmäßigen An- und Abreisezeiten**. Andere Belegungszeiträume können bei der Buchung individuell vereinbart werden, sofern die Belegung des Hauses dies zulässt (hierfür können entsprechende Zuschläge erhoben werden).
+* In den nachstehend genannten Preisen für die Anmietung ist jeweils ein Getränkegutschein von 30 € enthalten.
 
 ## Preisliste
 
@@ -15,9 +16,9 @@ Bitte beachten Sie bei der Anmietung des Jugendhaus Walchensee folgende Aspekte:
 
 | Dauer                                                                          | von                | bis                | Preis   |
 | ------------------------------------------------------------------------------ | ------------------ | ------------------ | ------- |
-| Wochenende                                                                     | Freitag, 17:00 Uhr | Sonntag, 16:00 Uhr | 330,- € |
-| Kurzwoche                                                                      | Sonntag, 17:00 Uhr | Freitag, 16:00 Uhr | 440,- € |
-| Langwoche                                                                      | Sonntag, 17:00 Uhr | Sonntag, 16:00 Uhr | 660,- € |
+| Wochenende                                                                     | Freitag, 17:00 Uhr | Sonntag, 16:00 Uhr | 400,- € |
+| Kurzwoche                                                                      | Sonntag, 17:00 Uhr | Freitag, 16:00 Uhr | 500,- € |
+| Langwoche                                                                      | Sonntag, 17:00 Uhr | Sonntag, 16:00 Uhr | 700,- € |
 | Bootshaus-Zuschlag                                                             | 01. Juni           | 15. September      | 15,- €  |
 | <small class="opacity-75">Stand ab 01.01.2025 - Änderungen vorbehalten</small> |                    |                    |         |
 

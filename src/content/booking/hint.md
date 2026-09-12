@@ -7,7 +7,7 @@ Es sind kurzfristig noch Lücken im Buchungskalender entstanden.
 
 Folgende **Termine** sind möglich: 
 
-Kurzwoche von So, 18.10.26 bis Fr, 23.10.26
+Kurzwoche von So, 01.11.26 bis Fr, 06.11.26 zum Sonderpreis von 300 €
 
 Melden Sie sich bei Interesse bitte direkt telefonisch.
 
